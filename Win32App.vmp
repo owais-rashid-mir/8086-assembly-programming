@@ -1,0 +1,38 @@
+{
+	"Version": 2,
+	"Project": {
+		"Name": "Win32App.exe",
+		"Id": "93D0AADF-44EB-431C-9647-6A118844C652",
+		"FileName": "C:\\Program Files (x86)\\Visual MASM\\Projects\\Program\\Win32App.vmp",
+		"Created": "21-Mar-22 3:08:43 PM",
+		"Type": "ptWin32",
+		"PreAssembleEventCommandLine": "",
+		"AssembleEventCommandLine": "",
+		"PostAssembleEventCommandLine": "",
+		"PreLinkEventCommandLine": "",
+		"LinkEventCommandLine": "",
+		"AdditionalLinkSwitches": "",
+		"AdditionalLinkFiles": "",
+		"PostLinkEventCommandLine": "",
+		"LibraryPath": "",
+		"OutputFolder": "C:\\Program Files (x86)\\Visual MASM\\Projects\\Program\\",
+		"OutputFile": "\"C:\\Program Files (x86)\\Visual MASM\\Projects\\Program\\Release\\Win32App.exe\"",
+		"SizeInBytes": 0,
+		"Build": true
+	},
+	"Files": [
+		{
+			"Id": "DA4654F8-828C-47FA-AD39-CF7CDB75208D",
+			"Name": "Procedures.asm",
+			"Created": "21-Mar-22 3:08:43 PM",
+			"Type": "pftASM",
+			"Path": "C:\\Program Files (x86)\\Visual MASM\\Projects\\Program\\",
+			"IsOpen": true,
+			"AssembleFile": true,
+			"ChildFileRCId": "",
+			"ChildFileASMId": "",
+			"ParentFileId": "",
+			"OutputFile": "\"C:\\Program Files (x86)\\Visual MASM\\Projects\\Program\\Release\\Procedures.obj\""
+		}
+	]
+}

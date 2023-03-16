@@ -1,0 +1,16 @@
+LINK : warning L4021: no stack segment
+
+ Start  Stop   Length Name                   Class
+ 00000H 0000EH 0000FH CODE                   
+
+  Address         Publics by Name
+
+ 0000:0003       my_proc
+ 0000:0000       start
+
+  Address         Publics by Value
+
+ 0000:0000       start
+ 0000:0003       my_proc
+
+Program entry point at 0000:0000

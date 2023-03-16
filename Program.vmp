@@ -1,0 +1,38 @@
+{
+	"Version": 2,
+	"Project": {
+		"Name": "Program.exe",
+		"Id": "447E2BC5-6E20-461D-89F0-76CFBECD7E29",
+		"FileName": "C:\\Program Files (x86)\\Visual MASM\\Projects\\Program\\Program.vmp",
+		"Created": "21-Mar-22 8:54:31 PM",
+		"Type": "ptDos16EXE",
+		"PreAssembleEventCommandLine": "",
+		"AssembleEventCommandLine": "",
+		"PostAssembleEventCommandLine": "",
+		"PreLinkEventCommandLine": "",
+		"LinkEventCommandLine": "",
+		"AdditionalLinkSwitches": "",
+		"AdditionalLinkFiles": "",
+		"PostLinkEventCommandLine": "",
+		"LibraryPath": "",
+		"OutputFolder": "C:\\Program Files (x86)\\Visual MASM\\Projects\\Program\\",
+		"OutputFile": "\"C:\\Program Files (x86)\\Visual MASM\\Projects\\Program\\Release\\Program.exe\"",
+		"SizeInBytes": 686,
+		"Build": true
+	},
+	"Files": [
+		{
+			"Id": "D7CFF220-CA04-4251-8FCE-F74DCCE02C41",
+			"Name": "Assembly2.asm",
+			"Created": "21-Mar-22 8:54:31 PM",
+			"Type": "pftASM",
+			"Path": "C:\\Program Files (x86)\\Visual MASM\\Projects\\Program\\",
+			"IsOpen": true,
+			"AssembleFile": true,
+			"ChildFileRCId": "",
+			"ChildFileASMId": "",
+			"ParentFileId": "",
+			"OutputFile": "\"C:\\Program Files (x86)\\Visual MASM\\Projects\\Program\\Release\\Assembly2.obj\""
+		}
+	]
+}
